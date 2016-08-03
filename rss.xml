@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[test]]></title>
         <description><![CDATA[test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-eh1pc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 15:35:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 15:38:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-eh1pc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/388caaa5-0bfc-4391-8878-ef62dd9e97c4.jpg">]]></description>
-            <link>undefinedf47c7472-7cfc-45b7-bdb9-5f921c1f0680/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/388caaa5-0bfc-4391-8878-ef62dd9e97c4.jpg" alt="Mozzarella">]]></description>
+            <link>https://thegrid.ai/test-eh1pc/f47c7472-7cfc-45b7-bdb9-5f921c1f0680/index.html</link>
             <guid isPermaLink="false">f47c7472-7cfc-45b7-bdb9-5f921c1f0680</guid>
-            <pubDate>Wed, 03 Aug 2016 15:33:30 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 15:38:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
